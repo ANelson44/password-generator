@@ -6,7 +6,7 @@ This is a random password generator. It allows the user to input desired passwor
 
 ## Installation
 
-Follow the link to see the page! ==> 
+Follow the link to see the page! ==> https://anelson44.github.io/password-generator/
 
 ## Usage
 
@@ -16,7 +16,7 @@ Click on the "Generate Password" button to begin.
    
 ## Credits
 
-User jmory on codeforum.com assisted with the parts of the JavaScript code.
+User jmory on codeforum.com assisted with parts of the JavaScript code.
 
 ## License
 No License
